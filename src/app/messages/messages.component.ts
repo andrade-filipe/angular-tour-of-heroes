@@ -9,4 +9,5 @@ import { MessageService } from '../services/message-service/message.service';
 export class MessagesComponent {
 
   constructor(public messageService: MessageService) {}
+
 }
